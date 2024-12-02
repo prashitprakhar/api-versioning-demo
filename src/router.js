@@ -10,6 +10,6 @@ router.get('/', function (req, res, next) {
 });
 
 router.use('/v1', v1Router);
-// router.use('/v2', v2Router);
+router.use('/v2', v2Router);
 
 module.exports = router;

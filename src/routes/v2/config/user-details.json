@@ -1,0 +1,14 @@
+{
+  "user_details": {
+    "RRAJ": {
+      "full_name": "Rahul Raj",
+      "sector": "IT Sector",
+      "designation": "Software developer"
+    },
+    "RROSHAN": {
+      "full_name": "Rahul Roshan",
+      "sector": "Govt. Sector",
+      "designation": "IAS Officer"
+    }
+  }
+}
